@@ -121,42 +121,155 @@
 
 ---
 
-<!-- FEATURED PROJECTS -->
+
+<!-- FEATURED PROJECTS START -->
+
 ## ◈ FEATURED PROJECTS // SELECTED WORK
 
-<div align="center">
+<p align="center">
+  <samp>ENGINEERED WITH PURPOSE. BUILT TO SOLVE REAL PROBLEMS.</samp>
+</p>
 
-  <a href="https://github.com/adhithyaaa2424/Legal-Aid-Match-Pro">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=adhithyaaa2424&repo=Legal-Aid-Match-Pro&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=BC13FE"
-      width="48%"
-    />
-  </a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  <a href="https://github.com/adhithyaaa2424/CineStack">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=adhithyaaa2424&repo=CineStack&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=BC13FE"
-      width="48%"
-    />
-  </a>
+<h3>01 // LEGALAIDMATCHPRO</h3>
 
-  <a href="https://github.com/adhithyaaa2424/Resume-Analyzer">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=adhithyaaa2424&repo=Resume-Analyzer&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=BC13FE"
-      width="48%"
-    />
-  </a>
+<p>
+A full-stack legal platform connecting clients with lawyers, featuring case management, role-based access and appointment workflows.
+</p>
 
-  <a href="https://github.com/adhithyaaa2424/FleetDash">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=adhithyaaa2424&repo=FleetDash&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=BC13FE"
-      width="48%"
-    />
-  </a>
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+</p>
 
-</div>
+<p>
+<a href="https://github.com/adhithyaaa2424/Legal-Aid-Match-Pro">
+<b>↗ EXPLORE REPOSITORY</b>
+</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>02 // RESUMEIQ</h3>
+
+<p>
+AI-powered resume analyzer that evaluates job compatibility, calculates ATS scores, identifies skill gaps and generates actionable improvement suggestions.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+</p>
+
+<p>
+<a href="https://github.com/adhithyaaa2424/Resume-Analyzer">
+<b>↗ EXPLORE REPOSITORY</b>
+</a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>03 // LEADFLOW AI STUDIO</h3>
+
+<p>
+A responsive AI automation agency website with lead capture, consultation booking, ROI calculator and automated CRM integrations.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Make.com-6D00CC?style=flat-square"/>
+</p>
+
+<p>
+<a href="https://github.com/adhithyaaa2424/leadflow-ai-studio">
+<b>↗ SOURCE CODE</b>
+</a>
+&nbsp;|&nbsp;
+<a href="https://leadflow-ai-studio.vercel.app/">
+<b>LIVE DEMO ↗</b>
+</a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>04 // RETAILIQ</h3>
+
+<p>
+Enterprise retail sales analytics and business intelligence project focused on data cleaning, ETL pipelines, SQL analytics, Python exploration and Power BI reporting.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square"/>
+</p>
+
+<p>
+<a href="https://github.com/adhithyaaa2424/RetailIQ-Enterprise-Sales-Analytics-Business-Intelligence-Platform">
+<b>↗ EXPLORE REPOSITORY</b>
+</a>
+</p>
+
+<p><sub>◈ Currently in development</sub></p>
+
+</td>
+</tr>
+</table>
 
 ---
+
+## ◈ MORE BUILDS // ADDITIONAL PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### STUDENT MANAGEMENT API
+
+Backend REST API with Spring Boot and CRUD operations for student record management.
+
+<a href="https://github.com/adhithyaaa2424/Student-Management-API">
+↗ View Repository
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### PRODUCT FILTERING
+
+React-based product filtering application demonstrating frontend component development.
+
+<a href="https://github.com/adhithyaaa2424/Filtering-Products">
+↗ View Repository
+</a>
+
+</td>
+</tr>
+</table>
+
+<!-- FEATURED PROJECTS END -->
+
+
 
 <!-- GITHUB ANALYTICS -->
 ## ◈ GITHUB ANALYTICS // DEVELOPER ACTIVITY
