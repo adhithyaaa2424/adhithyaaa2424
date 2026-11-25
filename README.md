@@ -1,74 +1,119 @@
 
-<!-- =============== CYBERPUNK NEON DEVELOPER =============== -->
+<!-- ====================================================== -->
+<!--           ADHITHYA A. | CYBERPUNK DEVELOPER             -->
+<!-- ====================================================== -->
 
+<!-- HERO BANNER -->
+<div align="center">
+  <img
+    src="assets/cyberpunk-banner.png"
+    width="100%"
+    alt="Adhithya - Cyberpunk Software Developer"
+  />
+</div>
+
+<br/>
+
+<!-- INTRODUCTION -->
 <div align="center">
 
   <h1>⚡ ADHITHYA A.</h1>
 
-  <h3>SOFTWARE DEVELOPER | JAVA FULL STACK ENGINEER</h3>
+  <h3>SOFTWARE DEVELOPER | JAVA FULL STACK DEVELOPER</h3>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=19&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=BUILDING+THE+FUTURE+WITH+CODE;JAVA+%7C+SPRING+BOOT+%7C+REACT;DESIGNING+SCALABLE+APPLICATIONS;LEARN.+CODE.+INNOVATE." alt="Typing SVG" />
-
-  <br/>
-
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-00F7FF?style=for-the-badge&labelColor=080B16" />
-
-  <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-BC13FE?style=for-the-badge&labelColor=080B16" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=19&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=BUILDING+THE+FUTURE+WITH+CODE;JAVA+%7C+SPRING+BOOT+%7C+REACT;DESIGNING+SCALABLE+APPLICATIONS;SOLVING+REAL+WORLD+PROBLEMS;LEARN.+CODE.+INNOVATE."
+    alt="Developer typing animation"
+  />
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=adhithyaaa2424&label=PROFILE+VISITORS&color=00F7FF&style=flat-square" />
+  <img
+    src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-00F7FF?style=for-the-badge&labelColor=080B16"
+  />
+  <img
+    src="https://img.shields.io/badge/PRIMARY%20LANGUAGE-JAVA-BC13FE?style=for-the-badge&labelColor=080B16"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://komarev.com/ghpvc/?username=adhithyaaa2424&label=PROFILE%20VISITORS&color=00F7FF&style=flat-square"
+  />
 
 </div>
 
 ---
 
+<!-- ABOUT ME -->
 ## ◈ SYSTEM PROFILE // ABOUT ME
 
 ```text
 > INITIALIZING DEVELOPER PROFILE...
-> IDENTITY      : ADHITHYA A.
-> DESIGNATION   : SOFTWARE DEVELOPER
-> SPECIALIZATION: FULL STACK DEVELOPMENT
-> PRIMARY LANG  : JAVA
-> CURRENT MODE  : BUILDING & LEARNING
-> OBJECTIVE     : ENGINEERING REAL-WORLD SOLUTIONS
-> STATUS        : ONLINE_
+
+> IDENTITY       : ADHITHYA A.
+> ROLE           : SOFTWARE DEVELOPER
+> PRIMARY STACK  : JAVA + SPRING BOOT
+> FRONTEND       : REACT.JS
+> DATABASES      : POSTGRESQL + MYSQL + MONGODB
+> CURRENT FOCUS  : SPRING SECURITY + DSA
+> SPECIALIZATION : FULL STACK DEVELOPMENT
+> MISSION        : BUILDING REAL-WORLD SOFTWARE
+
+> STATUS         : ALWAYS LEARNING_
 ```
 
 - 🎓 Computer Science Graduate.
 - 💻 Passionate about Software Development and Engineering.
-- ☕ Working with Java and Spring Boot.
-- ⚛️ Building responsive applications using React.
+- ☕ Working with Java, Spring Boot and Object-Oriented Programming.
+- ⚛️ Building frontend applications using React.js.
 - 🗄️ Interested in database design and backend architecture.
-- 🧠 Practicing Data Structures and Algorithms.
 - 🔐 Exploring Spring Security and application security.
+- 🧠 Practicing Data Structures and Algorithms.
+- 🚀 Interested in building scalable and maintainable applications.
 
 ---
 
+<!-- TECHNOLOGY STACK -->
 ## ◈ TECHNOLOGY ARSENAL
 
 <div align="center">
 
-  <h3>LANGUAGES</h3>
+  <h3>⌨️ PROGRAMMING LANGUAGES</h3>
 
   <img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" />
 
   <br/><br/>
 
-  <h3>BACKEND & FRAMEWORKS</h3>
+  <h3>⚙️ BACKEND TECHNOLOGIES</h3>
 
-  <img src="https://skillicons.dev/icons?i=spring,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" />
+
+  <br/>
+  <br/>
+
+  <img
+    src="https://img.shields.io/badge/REST%20APIs-00F7FF?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=080B16"
+  />
+  <img
+    src="https://img.shields.io/badge/SPRING%20SECURITY-BC13FE?style=for-the-badge&logo=springsecurity&logoColor=white&labelColor=080B16"
+  />
 
   <br/><br/>
 
-  <h3>DATABASES</h3>
+  <h3>🎨 FRONTEND TECHNOLOGIES</h3>
+
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
+
+  <br/><br/>
+
+  <h3>🗄️ DATABASES</h3>
 
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
 
   <br/><br/>
 
-  <h3>DEVELOPER TOOLS</h3>
+  <h3>🛠️ DEVELOPER TOOLS</h3>
 
   <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman&theme=dark" />
 
@@ -76,74 +121,117 @@
 
 ---
 
-## ◈ FEATURED PROJECTS
+<!-- FEATURED PROJECTS -->
+## ◈ FEATURED PROJECTS // SELECTED WORK
 
 <div align="center">
 
   <a href="https://github.com/adhithyaaa2424/Legal-Aid-Match-Pro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adhithyaaa2424&repo=Legal-Aid-Match-Pro&theme=tokyonight&hide_border=true" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=adhithyaaa2424&repo=Legal-Aid-Match-Pro&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=BC13FE"
+      width="48%"
+    />
   </a>
 
   <a href="https://github.com/adhithyaaa2424/CineStack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adhithyaaa2424&repo=CineStack&theme=tokyonight&hide_border=true" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=adhithyaaa2424&repo=CineStack&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=BC13FE"
+      width="48%"
+    />
   </a>
 
   <a href="https://github.com/adhithyaaa2424/Resume-Analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adhithyaaa2424&repo=Resume-Analyzer&theme=tokyonight&hide_border=true" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=adhithyaaa2424&repo=Resume-Analyzer&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=BC13FE"
+      width="48%"
+    />
   </a>
 
   <a href="https://github.com/adhithyaaa2424/FleetDash">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adhithyaaa2424&repo=FleetDash&theme=tokyonight&hide_border=true" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=adhithyaaa2424&repo=FleetDash&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=BC13FE"
+      width="48%"
+    />
   </a>
 
 </div>
 
 ---
 
-## ◈ GITHUB ANALYTICS
+<!-- GITHUB ANALYTICS -->
+## ◈ GITHUB ANALYTICS // DEVELOPER ACTIVITY
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adhithyaaa2424&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=adhithyaaa2424&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=BC13FE&rank_icon=github"
+    alt="GitHub statistics"
+  />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhithyaaa2424&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhithyaaa2424&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF"
+    alt="Top programming languages"
+  />
 
   <br/><br/>
 
-  <img width="70%" src="https://streak-stats.demolab.com?user=adhithyaaa2424&theme=tokyonight&hide_border=true" />
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=adhithyaaa2424&theme=tokyonight&hide_border=true&ring=00F7FF&fire=BC13FE&currStreakLabel=00F7FF"
+    alt="GitHub contribution streak"
+  />
 
 </div>
 
 ---
 
-## ◈ CURRENT MISSION
+<!-- CURRENT FOCUS -->
+## ◈ CURRENT MISSION // WHAT I'M EXPLORING
 
-```text
-[01] MASTERING JAVA & OBJECT-ORIENTED PROGRAMMING
-[02] BUILDING BACKEND SYSTEMS WITH SPRING BOOT
-[03] EXPLORING SPRING SECURITY
-[04] DEVELOPING FULL STACK APPLICATIONS
-[05] SOLVING DATA STRUCTURES & ALGORITHMS
-```
+<div align="center">
+
+| Mission | Focus |
+|:---|:---|
+| `01` | Advanced Java & OOP |
+| `02` | Spring Boot & Backend Development |
+| `03` | Spring Security |
+| `04` | Data Structures & Algorithms |
+| `05` | Full Stack Application Development |
+| `06` | Database Design & Optimization |
+
+</div>
 
 ---
 
-## ◈ CONNECT WITH ME
+<!-- CONNECT -->
+## ◈ ESTABLISH CONNECTION // CONNECT WITH ME
 
 <div align="center">
 
   <a href="https://github.com/adhithyaaa2424">
-    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00F7FF" />
+    <img
+      src="https://img.shields.io/badge/GITHUB-080B16?style=for-the-badge&logo=github&logoColor=00F7FF"
+    />
   </a>
 
-  <!-- LinkedIn and portfolio links will be added here -->
+  <!-- Add your verified LinkedIn URL when ready -->
 
   <br/><br/>
 
   <h3>⚡ LEARN. CODE. INNOVATE. ⚡</h3>
 
-  <img src="https://img.shields.io/badge/ENGINEERING-THE%20FUTURE-00F7FF?style=for-the-badge&labelColor=080B16" />
+  <img
+    src="https://img.shields.io/badge/ENGINEERING-THE%20FUTURE-00F7FF?style=for-the-badge&labelColor=080B16"
+  />
+
+  <br/><br/>
+
+  <i>Building today. Innovating tomorrow.</i>
 
 </div>
 
-<!-- =============== END OF CYBERPUNK PROFILE =============== -->
+<!-- ====================================================== -->
+<!--                  END OF PROFILE                        -->
+<!-- ====================================================== -->
