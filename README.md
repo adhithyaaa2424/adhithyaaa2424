@@ -6,7 +6,7 @@
 <!-- HERO BANNER -->
 <div align="center">
   <img
-    src="assets/cyberpunk-banner.png"
+    src="assets/Cyberpunk Developer Profile HUD.png"
     width="100%"
     alt="Adhithya - Cyberpunk Software Developer"
   />
