@@ -238,36 +238,69 @@ Enterprise retail sales analytics and business intelligence project focused on d
 
 ---
 
-## ◈ MORE BUILDS // ADDITIONAL PROJECTS
+
+<!-- MORE BUILDS START -->
+
+---
+
+<h2 align="center">
+  ◈ MORE BUILDS // ADDITIONAL PROJECTS
+</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=EXPLORING+NEW+TECHNOLOGIES;BUILDING+BEYOND+THE+ORDINARY;ALWAYS+LEARNING.+ALWAYS+BUILDING." alt="Animated developer tagline"/>
+</p>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### STUDENT MANAGEMENT API
+<h3>◈ 01 / STUDENT MANAGEMENT API</h3>
 
-Backend REST API with Spring Boot and CRUD operations for student record management.
+<p>
+A Spring Boot REST API for managing student records through structured CRUD operations.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/SPRING_BOOT-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-00B8D9?style=flat-square"/>
+</p>
 
 <a href="https://github.com/adhithyaaa2424/Student-Management-API">
-↗ View Repository
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </td>
+
 <td width="50%" valign="top">
 
-### PRODUCT FILTERING
+<h3>◈ 02 / PRODUCT FILTERING</h3>
 
-React-based product filtering application demonstrating frontend component development.
+<p>
+A React application demonstrating dynamic product filtering and interactive frontend functionality.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/FRONTEND-00B8D9?style=flat-square"/>
+</p>
 
 <a href="https://github.com/adhithyaaa2424/Filtering-Products">
-↗ View Repository
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 </td>
 </tr>
 </table>
 
-<!-- FEATURED PROJECTS END -->
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ALWAYS_BUILDING-00F7FF?style=for-the-badge&labelColor=080B16"/>
+</p>
+
+<!-- MORE BUILDS END -->
+
 
 
 
