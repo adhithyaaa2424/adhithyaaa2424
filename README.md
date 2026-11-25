@@ -238,8 +238,10 @@
 
 
 
+
 ---
 
+<!-- CONTRIBUTION SNAKE -->
 ## ◈ CONTRIBUTION MATRIX // LIVE ACTIVITY
 
 <div align="center">
@@ -256,16 +258,19 @@
     />
 
     <img
-      alt="GitHub Contribution Snake Animation"
+      alt="Adhithya's GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/adhithyaaa2424/adhithyaaa2424/output/github-snake.svg"
       width="100%"
     />
-
   </picture>
 
   <br/>
 
   <h3>⚡ EVERY CONTRIBUTION BUILDS THE FUTURE ⚡</h3>
 
-</div>
+  <img
+    src="https://img.shields.io/badge/KEEP%20BUILDING-KEEP%20INNOVATING-00F7FF?style=for-the-badge&labelColor=080B16"
+    alt="Keep building, keep innovating"
+  />
 
+</div>
