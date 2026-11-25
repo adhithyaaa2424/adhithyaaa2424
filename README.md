@@ -235,3 +235,37 @@
 <!-- ====================================================== -->
 <!--                  END OF PROFILE                        -->
 <!-- ====================================================== -->
+
+
+
+---
+
+## ◈ CONTRIBUTION MATRIX // LIVE ACTIVITY
+
+<div align="center">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/adhithyaaa2424/adhithyaaa2424/output/github-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/adhithyaaa2424/adhithyaaa2424/output/github-snake.svg"
+    />
+
+    <img
+      alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/adhithyaaa2424/adhithyaaa2424/output/github-snake.svg"
+      width="100%"
+    />
+
+  </picture>
+
+  <br/>
+
+  <h3>⚡ EVERY CONTRIBUTION BUILDS THE FUTURE ⚡</h3>
+
+</div>
+
