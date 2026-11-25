@@ -239,6 +239,7 @@
 
 
 
+
 ---
 
 <!-- CONTRIBUTION SNAKE -->
@@ -251,12 +252,10 @@
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/adhithyaaa2424/adhithyaaa2424/output/github-snake-dark.svg"
     />
-
     <source
       media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/adhithyaaa2424/adhithyaaa2424/output/github-snake.svg"
     />
-
     <img
       alt="Adhithya's GitHub Contribution Snake"
       src="https://raw.githubusercontent.com/adhithyaaa2424/adhithyaaa2424/output/github-snake.svg"
@@ -267,6 +266,14 @@
   <br/>
 
   <h3>⚡ EVERY CONTRIBUTION BUILDS THE FUTURE ⚡</h3>
+
+  <img
+    src="https://img.shields.io/badge/KEEP%20BUILDING-KEEP%20INNOVATING-00F7FF?style=for-the-badge&labelColor=080B16"
+    alt="Keep building, keep innovating"
+  />
+
+</div>
+
 
   <img
     src="https://img.shields.io/badge/KEEP%20BUILDING-KEEP%20INNOVATING-00F7FF?style=for-the-badge&labelColor=080B16"
