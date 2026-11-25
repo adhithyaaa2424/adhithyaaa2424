@@ -351,18 +351,37 @@ A React application demonstrating dynamic product filtering and interactive fron
 
 ---
 
-<!-- CONNECT -->
-## ◈ ESTABLISH CONNECTION // CONNECT WITH ME
 
-<div align="center">
+<!-- CONNECT SECTION START -->
 
-  <a href="https://github.com/adhithyaaa2424">
-    <img
-      src="https://img.shields.io/badge/GITHUB-080B16?style=for-the-badge&logo=github&logoColor=00F7FF"
-    />
+---
+
+<h2 align="center">◈ CONNECT // ESTABLISH CONNECTION</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=OPEN+TO+OPPORTUNITIES;LET'S+BUILD+SOMETHING+GREAT;CONNECT.+COLLABORATE.+INNOVATE." alt="Connect animation"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/adhithya-a-774094279/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="mailto:adhithyaaa2424@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-LET'S_TALK-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/adhithyaaa2424">
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-  <!-- Add your verified LinkedIn URL when ready -->
+<p align="center">
+  <samp>⚡ OPEN TO SOFTWARE DEVELOPMENT OPPORTUNITIES ⚡</samp>
+</p>
+
+<!-- CONNECT SECTION END -->
+
 
   <br/><br/>
 
